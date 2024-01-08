@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: ground_grasses_0
+  m_Name: G.Load.L
   m_EditorClassIdentifier: 
-  m_Sprite: {fileID: 1849155472, guid: 2cf044f0ac75f7f4fbd00c42202acae6, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 4a7bb1f4014a6fe4a95f2f0f74dc66f9, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
     e00: 1
